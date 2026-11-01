@@ -1,9 +1,7 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于我
 
-::github{repo="saicaca/fuwari"}
+一名靠 AI Infra 吃饭的打工牛马，研究生时研究如何让 AI 推理更安全，现在工作是研究如何让 AI 推理更快。工作摸鱼时喜欢看奇幻、热血题材的小说，比如《全职高手》；下班回家喜欢打二游，比如《原神》；周末喜欢去周边城市一日游，逛公园、爬山，有时也会当一回特种兵打卡网红景点。
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+这个博客主要记录游记，希望能给你的出行提供一点路线和吃喝参考；不打算出门的时候，也可以来这里云逛逛，打发一点闲暇时间。
+
+技术方面的内容，可以逛逛我的 [GitHub 主页](https://github.com/oldprincess)，也欢迎给我[发邮件](mailto:zirui.gong@foxmail.com)。
