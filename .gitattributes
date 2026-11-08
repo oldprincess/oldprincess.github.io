@@ -1,0 +1,12 @@
+# Treat images as binary files and disable text diffs and merges.
+*.[pP][nN][gG] binary
+*.[jJ][pP][gG] binary
+*.[jJ][pP][eE][gG] binary
+*.[gG][iI][fF] binary
+*.[wW][eE][bB][pP] binary
+*.[aA][vV][iI][fF] binary
+*.[bB][mM][pP] binary
+*.[iI][cC][oO] binary
+*.[tT][iI][fF] binary
+*.[tT][iI][fF][fF] binary
+*.[sS][vV][gG] binary
